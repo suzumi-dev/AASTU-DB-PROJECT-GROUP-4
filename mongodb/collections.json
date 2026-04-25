@@ -1,0 +1,157 @@
+
+   { 
+  "books": [
+    {
+      "book_id": 1,
+      "title": "1984",
+      "genre": "Dystopian",
+      "year_published": 1949,
+      "total_copies": 3,
+      "available_copies": 2,
+      "author": {
+        "first_name": "George",
+        "last_name": "Orwell",
+        "nationality": "British"
+      }
+    },
+    {
+      "book_id": 2,
+      "title": "Things Fall Apart",
+      "genre": "Fiction",
+      "year_published": 1958,
+      "total_copies": 4,
+      "available_copies": 3,
+      "author": {
+        "first_name": "Chinua",
+        "last_name": "Achebe",
+        "nationality": "Nigerian"
+      }
+    },
+    {
+      "book_id": 3,
+      "title": "Beloved",
+      "genre": "Historical Fiction",
+      "year_published": 1987,
+      "total_copies": 2,
+      "available_copies": 2,
+      "author": {
+        "first_name": "Toni",
+        "last_name": "Morrison",
+        "nationality": "American"
+      }
+    },
+    {
+      "book_id": 4,
+      "title": "Crime and Punishment",
+      "genre": "Philosophical Fiction",
+      "year_published": 1866,
+      "total_copies": 3,
+      "available_copies": 1,
+      "author": {
+        "first_name": "Fyodor",
+        "last_name": "Dostoevsky",
+        "nationality": "Russian"
+      }
+    },
+    {
+      "book_id": 5,
+      "title": "I Know Why the Caged Bird Sings",
+      "genre": "Autobiography",
+      "year_published": 1969,
+      "total_copies": 2,
+      "available_copies": 2,
+      "author": {
+        "first_name": "Maya",
+        "last_name": "Angelou",
+        "nationality": "American"
+      }
+    }
+  ],
+  "borrowing_records": [
+    {
+      "borrow_id": 1,
+      "student": {
+        "student_id": 1,
+        "first_name": "Abebe",
+        "last_name": "Kebede",
+        "grade": "Grade 11"
+      },
+      "book": {
+        "book_id": 1,
+        "title": "1984"
+      },
+      "borrow_date": "2024-01-05",
+      "due_date": "2024-01-19",
+      "return_date": "2024-01-18",
+      "status": "returned"
+    },
+    {
+      "borrow_id": 2,
+      "student": {
+        "student_id": 2,
+        "first_name": "Tigist",
+        "last_name": "Haile",
+        "grade": "Grade 10"
+      },
+      "book": {
+        "book_id": 3,
+        "title": "Beloved"
+      },
+      "borrow_date": "2024-01-10",
+      "due_date": "2024-01-24",
+      "return_date": null,
+      "status": "borrowed"
+    },
+    {
+      "borrow_id": 3,
+      "student": {
+        "student_id": 3,
+        "first_name": "Dawit",
+        "last_name": "Tadesse",
+        "grade": "Grade 12"
+      },
+      "book": {
+        "book_id": 2,
+        "title": "Things Fall Apart"
+      },
+      "borrow_date": "2024-01-12",
+      "due_date": "2024-01-26",
+      "return_date": "2024-01-25",
+      "status": "returned"
+    },
+    {
+      "borrow_id": 4,
+      "student": {
+        "student_id": 4,
+        "first_name": "Selam",
+        "last_name": "Girma",
+        "grade": "Grade 11"
+      },
+      "book": {
+        "book_id": 5,
+        "title": "I Know Why the Caged Bird Sings"
+      },
+      "borrow_date": "2024-01-15",
+      "due_date": "2024-01-29",
+      "return_date": null,
+      "status": "borrowed"
+    },
+    {
+      "borrow_id": 5,
+      "student": {
+        "student_id": 5,
+        "first_name": "Yonas",
+        "last_name": "Bekele",
+        "grade": "Grade 10"
+      },
+      "book": {
+        "book_id": 4,
+        "title": "Crime and Punishment"
+      },
+      "borrow_date": "2024-01-17",
+      "due_date": "2024-01-31",
+      "return_date": null,
+      "status": "overdue"
+    }
+  ]
+}     
