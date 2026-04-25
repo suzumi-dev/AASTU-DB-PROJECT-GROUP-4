@@ -1,12 +1,14 @@
 # School Library Database Management System
 
  ## Group Members
+ - Bereket Derese - Business Analyst
   - Betelhem Nurlachew- Business Analyst
- - Betelhem Solomon — Backend/Implementation Lead
+ - Betelhem Solomon — Backend/Implementation
+ Lead
  - Arsema Yeshidnber - Documentation lead
  - Afomiya Aschenaki- Database Designer
  - Mading Majok - Documentation Lead
-
+   
 ## Description
 A database system to manage books, students, and borrowing records
 for a school library. Designed using both MySQL (relational) and
