@@ -1,6 +1,7 @@
 # School Library Database Management System
 
  ## Group Members
+ -Betelhem Nurlachw- Business Analyst
 - Betelhem Solomon — Backend/Implementation Lead
 - Arsema Yeshidnber - Documentation lead
 
