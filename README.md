@@ -4,6 +4,7 @@
   - Betelhem Nurlachew- Business Analyst
  - Betelhem Solomon — Backend/Implementation Lead
  - Arsema Yeshidnber - Documentation lead
+ - Afomiya Aschenaki- Database Designer
 
 ## Description
 A database system to manage books, students, and borrowing records
