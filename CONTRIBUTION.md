@@ -3,3 +3,4 @@ Member                  Contributions
 2.Arsema Yeshidnber - Documentation and Report
 3.Betelhem Nurlachew -problem definition and requirements
 4.Afomiya Aschenaki - Database design and normalization
+5.Bereket Derese - Mongpb queries
