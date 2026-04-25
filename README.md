@@ -5,6 +5,7 @@
  - Betelhem Solomon — Backend/Implementation Lead
  - Arsema Yeshidnber - Documentation lead
  - Afomiya Aschenaki- Database Designer
+ - Mading Majok - Documentation Lead
 
 ## Description
 A database system to manage books, students, and borrowing records
