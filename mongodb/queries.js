@@ -22,6 +22,5 @@ db.borrowing_records.updateOne(
 // QUERY 7: Count total borrowed books per status
 db.borrowing_records.aggregate([
   { $group: { _id: "$status", count: { $sum: 1 } } }
-]);  
- // code ends here    
+]);
 
