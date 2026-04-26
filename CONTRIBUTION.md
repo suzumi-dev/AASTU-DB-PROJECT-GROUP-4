@@ -5,3 +5,4 @@ Member                  Contributions
 4.Afomiya Aschenaki - Database design and normalization
 5.Bereket Derese - Mongpb queries
 6. Mading Majok - MongoDB collections
+7. Aksah Atlaw - Database design and normalization
