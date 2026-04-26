@@ -1,7 +1,7 @@
 -- ================================================
 -- SCHOOL LIBRARY DATABASE SYSTEM
 -- File: schema.sql (FINAL VERSION)
--- Authors: Group [Your Number]
+-- Authors: Group 4
 -- ================================================
 
 CREATE DATABASE IF NOT EXISTS school_library;
