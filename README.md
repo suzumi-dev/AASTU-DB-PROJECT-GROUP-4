@@ -3,7 +3,7 @@
  ## Group Members
   - Betelhem Nurlachew- Business Analyst
  - Betelhem Solomon — Backend/Implementation Lead
- - Bereket Deres - Business Analyst
+ - Bereket Derese - Business Analyst
  - Arsema Yeshidnber - Documentation lead
  - Afomiya Aschenaki- Database Designer
 
