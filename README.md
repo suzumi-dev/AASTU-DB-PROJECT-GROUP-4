@@ -1,4 +1,4 @@
-# School Library Database Management System
+#School Library Database Management System
 
  ## Group Members
  - Bereket Derese - Business Analyst
